@@ -1,0 +1,2 @@
+function a(e,t){return{bodyClassName:"framer-body-augiA20Il",breakpoints:[{hash:"72rtr7",mediaQuery:"(min-width: 1200px)"},{hash:"vj3j2h",mediaQuery:"(min-width: 810px) and (max-width: 1199px)"},{hash:"13fybm0",mediaQuery:"(max-width: 809px)"}],elements:{},title:"EcoLumia Feedback",viewport:"width=device-width"}}var o=1,d={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{a,o as b,d as c};
+//# sourceMappingURL=chunk-NV3ZYIV3.mjs.map
